@@ -7,6 +7,9 @@ Hyperspectral unmixing is a technique of approximating spectral signatures of pu
 # Cite this paper as
 Shah D., Zaveri T., Dixit R. (2020) Hyperspectral Endmember Extraction Algorithm Using Convex Geometry and K-Means. In: Gupta S., Sarvaiya J. (eds) Emerging Technology Trends in Electronics, Communication and Networking. ET2ECN 2020. Communications in Computer and Information Science, vol 1214. Springer, Singapore. https://doi.org/10.1007/978-981-15-7219-7_16
 
+# Link for Cuprite data source : 
+https://rslab.ut.ac.ir/data
+
 # How to run the code?
 Download all the above files in zip. Extract it. And run the "demo_CGkmeans.m" file in MATLAB. 
 
