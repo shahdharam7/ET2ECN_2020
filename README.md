@@ -16,4 +16,5 @@ Download all the above files in zip. Extract it. And run the "demo_CGkmeans.m" f
 # Authors:
 - Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com (For any clarification)
 - Tanish Zaveri, Nirma University ---> ztanish@nirmauni.ac.in
+- Rutvik Dixit ---> dixit.rutvik20@gmail.com
   
